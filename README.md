@@ -25,19 +25,7 @@ An intuitive, full-stack web application for online education. This platform ena
 - **Bootstrap 5**
 - **EJS (Embedded JavaScript Templates)**
 
-### Backend
-- **Node.js**
-- **Express.js**
 
-### Database
-- **MongoDB** with **Mongoose**
-
-### Other Tools
-- **Passport.js** – Authentication
-- **Multer** – File Uploads
-- **Dotenv** – Environment Variables
-
----
 
 ## 📦 Installation & Setup
 
